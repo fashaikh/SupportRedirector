@@ -9,7 +9,7 @@
     <projectUrl> https://github.com/fashaikh/SupportRedirector</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Redirects users to Azure Websites Support Site</description>
-    <iconUrl>https://raw.githubusercontent.com/fashaikh/SupportRedirector/master/SupportRedirector.png</iconUrl>
+    <iconUrl>http://supportsiteextension.azurewebsites.net/SupportSite50x50.png</iconUrl>
     <tags>Support redirect siteextension</tags>
   </metadata>
   <files>
